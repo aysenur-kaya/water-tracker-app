@@ -33,8 +33,7 @@ https://water-tracker-app-sigma.vercel.app
 
 
 📸 Screenshot
-
-(You can add your screenshot after deployment.)
+![App Screenshot](./assets/screenshot.png)
 
 📦 Installation
 
@@ -99,8 +98,7 @@ https://water-tracker-app-sigma.vercel.app
 
 
 📸 Ekran Görüntüsü
-
-(Deploy sonrası buraya screenshot ekleyebilirsin.)
+![App Screenshot](./assets/screenshot.png)
 
 📦 Kurulum
 
