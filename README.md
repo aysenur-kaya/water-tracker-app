@@ -26,10 +26,11 @@ JavaScript
 
 LocalStorage
 
-* Live Demo
 
-👉 Add your Vercel deployment link here.
-Example: https://water-tracker-app.vercel.app
+* Live Demo
+https://water-tracker-app-sigma.vercel.app
+
+
 
 📸 Screenshot
 
@@ -61,7 +62,8 @@ Ayşenur Kaya
 Frontend Developer
 👉 GitHub: https://github.com/aysenur-kaya
  
- 
+
+-------
  
  Water Tracker Uygulaması
 
@@ -91,10 +93,10 @@ JavaScript
 
 LocalStorage
 
-*Canlı Demo
 
-👉 Vercel linkini buraya ekleyeceksin.
-Örnek: https://water-tracker-app.vercel.app
+*Canlı Demo
+https://water-tracker-app-sigma.vercel.app
+
 
 📸 Ekran Görüntüsü
 
